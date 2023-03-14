@@ -1,2 +1,5 @@
+lesson01
+git init/add/commit/config/log
+
 lesson02
-git init
+git % github
